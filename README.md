@@ -151,8 +151,10 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
+![Screenshot from 2023-01-23 11-15-53](https://user-images.githubusercontent.com/115525118/213974988-8f40e0b2-a527-4a1f-9ef6-8c26ff29d4a3.png)
 
-![back1](https://user-images.githubusercontent.com/115525118/213974870-46aa4c7b-3fe1-4151-935e-96a6a46b6137.png)
+
+
 
 
 ## Result:
