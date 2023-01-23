@@ -151,8 +151,10 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![Uploading cover.png…](./cover.png)
+
+![back1](https://user-images.githubusercontent.com/115525118/213974870-46aa4c7b-3fe1-4151-935e-96a6a46b6137.png)
 
 
 ## Result:
+Thus the bookcover is excecuted sucessfully
 
