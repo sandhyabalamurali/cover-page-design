@@ -7,19 +7,19 @@ To design a static web site for a book cover page.
 ## DESIGN STEPS:
 
 ### Step 1:
-
+    To design a book cover page design.
 
 ### Step 2:
-
+   create a newproject and new app.
 
 ### Step 3:
-
+   add image in static folder in project
 
 ### Step 4:
-
+  create a new folder templates under app
 
 ### Step 5:
-
+  create the html code.
 ### Step 6:
 
 Validate the HTML and CSS code.
